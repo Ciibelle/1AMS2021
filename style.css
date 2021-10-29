@@ -1,11 +1,16 @@
 *{
-  margin:0;
+padding: 0;
+margin: 0;
 }
-
-h1{
-  color: red;
+#cabecalho{
+text-align: center;
 }
-
-h2{
-  color: blue;
+#cabecalho img{
+width: 1420px;
+height: 200px;
+opacity: 70%;
+border-radius: 30px;
+}
+#body{
+background-color: #ffffffb0;
 }
